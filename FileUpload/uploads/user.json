@@ -1,0 +1,10 @@
+{
+    "id": 101,
+    "name": "Avadhut",
+    "salary": 100000,
+    "skills": [
+        "Python",
+        "FastAPI",
+        "AWS"
+    ]
+}
